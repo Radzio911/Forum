@@ -9,9 +9,13 @@
 3. Comments
 
 /register - POST
+
 /login - POST
+
 /topic - POST
+
 /comment - POST
+
 /topic/<id> - GET
 
 `docker-compose up`
